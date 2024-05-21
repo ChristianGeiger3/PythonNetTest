@@ -14,7 +14,7 @@ class DonwloadTests(unittest.TestCase):
   
      def test_download(self):
 
-        # self.DoThread()
+        self.DoThread()
         
         self.DoProc()
 
